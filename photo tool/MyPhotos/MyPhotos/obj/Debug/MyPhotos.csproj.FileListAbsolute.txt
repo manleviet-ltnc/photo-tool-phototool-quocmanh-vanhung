@@ -1,0 +1,10 @@
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\obj\Debug\MyPhotos.Properties.Resources.resources
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.GenerateResource.Cache
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.CoreCompileInputs.cache
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\obj\Debug\MyPhotos.exe
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\obj\Debug\MyPhotos.pdb
+C:\Users\DNC\Documents\GitHub\photo tool\MyPhotos\MyPhotos\obj\Debug\MyPhotos.Form1.resources
