@@ -1,0 +1,14 @@
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe.config
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoAlbum.dll
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoControls.dll
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoAlbum.pdb
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoControls.pdb
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.csprojResolveAssemblyReference.cache
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.EditorForm.resources
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.Properties.Resources.resources
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.csproj.GenerateResource.Cache
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.csproj.CoreCompileInputs.cache
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.exe
+D:\GitHub\photo-tool-manleviet\MyPhotos\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.pdb
