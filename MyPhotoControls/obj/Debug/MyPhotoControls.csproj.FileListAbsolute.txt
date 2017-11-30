@@ -20,17 +20,3 @@ D:\GitHub\photo-tool-manleviet\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoAlbum.d
 D:\GitHub\photo-tool-manleviet\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoAlbum.pdb
 D:\GitHub\photo-tool-manleviet\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.dll
 D:\GitHub\photo-tool-manleviet\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\bin\Debug\MyPhotoControls.dll
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\bin\Debug\MyPhotoAlbum.dll
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\bin\Debug\MyPhotoAlbum.pdb
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumEditDialog.resources
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumPasswordDialog.resources
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.BaseEditDialog.resources
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PhotoEditDialog.resources
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PixelDialog.resources
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.CoreCompileInputs.cache
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\MyPhotoControls.dll
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\obj\Debug\MyPhotoControls.pdb

@@ -10,8 +10,3 @@ D:\GitHub\photo-tool-manleviet\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.cspr
 D:\GitHub\photo-tool-manleviet\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.CoreCompileInputs.cache
 D:\GitHub\photo-tool-manleviet\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
 D:\GitHub\photo-tool-manleviet\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.CoreCompileInputs.cache
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
-E:\GitHub\github\photo-tool-phototool-quocmanh-vanhung\photo-tool-phototool-quocmanh-vanhung\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
