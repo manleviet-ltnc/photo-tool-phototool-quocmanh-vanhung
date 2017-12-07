@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollablePictureBox Text", "ScrollablePictureBox Text\ScrollablePictureBox Text.csproj", "{835C1582-0E8B-4DD8-A519-0FA5B19574C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotoControls", "..\photo-tool-phototool-quocmanh-vanhung\MyPhotoControls\MyPhotoControls.csproj", "{ABE505EF-7036-49D3-AD12-F0C44552FFD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835C1582-0E8B-4DD8-A519-0FA5B19574C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835C1582-0E8B-4DD8-A519-0FA5B19574C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835C1582-0E8B-4DD8-A519-0FA5B19574C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835C1582-0E8B-4DD8-A519-0FA5B19574C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE505EF-7036-49D3-AD12-F0C44552FFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE505EF-7036-49D3-AD12-F0C44552FFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE505EF-7036-49D3-AD12-F0C44552FFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE505EF-7036-49D3-AD12-F0C44552FFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95002BA0-3AD3-414C-B6B0-E102C7EA0C61}
+	EndGlobalSection
+EndGlobal
